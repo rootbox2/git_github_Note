@@ -1,0 +1,11 @@
+=> To see diffarence in between file use "-git diff". If we delete a line from a file or file from 
+   a folder we can see the diffarence between before and after
+=> Then we can stage our file using "-git add ." command
+=> If after staged a file we need to review that file we need to type "-git diff --staged".
+=> If we need to know about diffarence between 2 commit, type "-git diff '1st commit Id' '2nd commit ID'"
+
+# Remove a file from git
+
+=> To remove a file from git type "-git rm 'File name'". Then we need to unstage 
+   our file using command "-git reset HEAD 'File Name'"
+=> Then commit file using "-git commit -m 'masseg'" to make sure that our file compleatly delete

@@ -1,0 +1,12 @@
+=> To see history of commit type "-git log" or for easy view "-git log --oneline"
+=> Then it open history of our commit
+=> To show more details type "-git show 'here type commit id from log'". 
+   Then boom, here we can see our commit details.
+
+
+# virsion control
+
+=> If we need to back our 1st commit or virsion of our file we need to checkout our file. 
+   use command "-git checkout 'target commit id' 'file name'"
+
+=> BOOM! e are in our older version file😊

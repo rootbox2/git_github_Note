@@ -1,0 +1,8 @@
+=> Go to Target file location
+=> Open git bash
+=> Type -git init
+=> Type '-git status' to check file status
+=> Type '-git add "File name"'or for all file at once '-git add .'
+=> Type '-git status' to check file status;If file name color green then it's ok
+=> type '-git commit' to upload the file or commit the file
+=> Type '-git log' to see commit history
